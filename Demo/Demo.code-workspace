@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Demo",
+			"path": "."
+		},
+		{
+			"name": "Projeto de doido hahahahaha",
+			"path": "../Projeto de doido hahahahaha"
+		},
+		{
+			"name": "Projeto de hahah",
+			"path": "../Projeto de hahah"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Projeto de hahah"
+	}
+}
